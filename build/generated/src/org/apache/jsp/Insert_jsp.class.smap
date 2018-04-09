@@ -1,0 +1,33 @@
+SMAP
+Insert_jsp.java
+JSP
+*S JSP
+*F
++ 0 Insert.jsp
+Insert.jsp
++ 1 Header.jsp
+view/Header.jsp
++ 2 Left-Menu.jsp
+view/Left-Menu.jsp
++ 3 Footer.jsp
+view/Footer.jsp
+*L
+5,16:53
+20,11:69
+5#1,16:80
+21:96,3
+22,7:99
+30#0,4:105
+5#2,20:109
+26,5:131
+30,6:136
+36,2:143
+37,25:145
+33#0,41:169
+77,31:214
+107,14:245
+5#3,12:259
+17:271,3
+18,3:274
+120#0,5:276
+*E
